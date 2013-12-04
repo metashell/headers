@@ -17,7 +17,7 @@ version `1.54.0` and Loki version `0.1.7`, one should use
 ## Components
 This repository contains the following libraries:
 
-* [Boost](http://www.boost.org/) (`1.21.1` - `1.54.0`)
+* [Boost](http://www.boost.org/) (`1.21.1` - `1.55.0`)
 * [Loki](http://loki-lib.sourceforge.net/) (`0.0.2` - `0.1.7`)
 
 ## Creating an installer
