@@ -7,7 +7,9 @@ set(PATCH_VERSION 0)
 
 install(DIRECTORY headers DESTINATION include)
 
-set(CMAKE_INSTALL_PREFIX "/usr")
+if (CMAKE_INSTALL_PREFIX_INITIALIZED_TO_DEFAULT)
+  set(CMAKE_INSTALL_PREFIX "/usr")
+endif()
 
 # Debian package
 if(EXISTS "${CMAKE_ROOT}/Modules/CPack.cmake")
