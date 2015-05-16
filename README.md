@@ -17,7 +17,7 @@ version `1.54.0` and Loki version `0.1.7`, one should use
 ## Components
 This repository contains the following libraries:
 
-* [Boost](http://www.boost.org/) (`1.21.1` - `1.57.0`)
+* [Boost](http://www.boost.org/) (`1.21.1` - `1.58.0`)
 * [Loki](http://loki-lib.sourceforge.net/) (`0.0.2` - `0.1.7`)
 * [Mpllibs](http://abel.web.elte.hu/mpllibs) (`1.0.0`)
 * [FTMP](https://github.com/minamiyama1994/FTMP) (commit `7d36043be1313d8e564aa3c275d7187c7aa85339`)
